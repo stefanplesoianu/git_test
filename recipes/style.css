@@ -1,0 +1,35 @@
+/* style.css */
+
+body {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+
+    font-size: bold;
+    font-size: 25px;
+}
+
+h2 {
+
+    font-size: 22px;
+}
+
+ .jaf#enjoy {
+
+    color: blueviolet;
+    background-color: aquamarine;
+}
+
+#meat {
+
+    color: bisque;
+    background-color: brown;
+}
+
+#enjoy {
+
+    color: blueviolet;
+    background-color: aquamarine;
+}
